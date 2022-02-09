@@ -15,4 +15,4 @@ São elas:
     ◌ Delete.
 <hr>
 </br>
-Caso queira clonar este repositório, clique <a href="#">aqui</a>.
+Caso queira clonar este repositório, clique <a href="https://github.com/bragabriel/Projeto-CRUD-PHP.git">aqui</a>.
